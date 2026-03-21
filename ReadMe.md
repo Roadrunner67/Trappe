@@ -2,6 +2,8 @@
 
 Dette er designdokumentation for en terrassetrappe til huset Søndre Landevej 71, 6400 Sønderborg.
 
+<img src="./Images/Trappe.png" alt="Trappe" width="300"/>
+
 Trappen dækker delvist over vinduerne i kælderen, så det er vigtigt at den ikke tager mere lys/udsyn end højst nødvendigt.  
 Trappevanger og gelænder skal galvaniseres.
 
