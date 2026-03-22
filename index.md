@@ -33,4 +33,10 @@ Trin klarer jeg selv, her har jeg regnet med 145*35mm hårdttræ.
 
 ## DXF filer
 
-Der er vedhæftet DXF filer, som burde kunne bruges til laserskæring af pladedele.
+Der er følgende DXF filer, som burde kunne bruges til laserskæring af pladedele.
+[Gelænder vægbeslag](./DXF/Gelaender%20-%20Vægbeslag%205mm%20x2.dxf)
+[Vange - Laske 8mm x2](./DXF/Vange%20-%20Laske%208mm%20x2.dxf)
+[Vange - Lodret ende 8mm x2](./DXF/Vange%20-%20LodretEnde%208mm%20x2.dxf)
+[Vange - Trinplade 5mm x10](./DXF/Vange%20-%20TrinPlade%205mm%20x10.dxf)
+[Vange - Trin støtte 8mm x10](./DXF/Vange%20-%20TrinStøtte%208mm%20x10.dxf)
+[Vange - Vandret ende 8mm x2](./DXF/Vange%20-%20VandretEnde%208mm%20x2.dxf)
