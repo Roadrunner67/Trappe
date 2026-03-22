@@ -17,9 +17,9 @@ Gelænderet er en stilmæssig kopi af gelænderet på vores fortrappe. De lodret
 
 <img src="./Images/Gelænder%20Vægbeslag.png" alt="Gelænder vægbeslag" width="300"/>
 
-Gelænderet slutter i et 110 mm udkragning/overhæng som slutter med en afrunding som efter mine mål svarer til det man vist kalder en 1D-afslutning.
-
 ### Gelænder afslutning
+
+Gelænderet slutter i et 110 mm udkragning/overhæng som slutter med en afrunding som efter mine mål svarer til det man vist kalder en 1D-afslutning.
 
 <img src="./Images/Gelænder%20Afrunding.png" alt="Gelænder afslutning" width="300"/>
 
