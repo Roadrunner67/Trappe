@@ -40,14 +40,14 @@ Her er tegninger med mål.
 [Laske](./Drawings/003%20Laske.pdf)  
 [Vange profiler](./Drawings/004%20Vange%20profiler.pdf)  
 [Gelænder](./Drawings/010%20Gelænder.pdf)  
-[Gelænder vægbeslag](./Drawings/005%20Gelænder%20-%20Vægplade.pdf)  
+[Gelænder vægplade](./Drawings/005%20Gelænder%20-%20Vægplade.pdf)  
 [Vange assembly](./Drawings/101%20Vange%20Assembly.pdf)  
 
 ## DXF filer
 
 Der er følgende DXF filer, som burde kunne bruges til laserskæring af pladedele.
 
-[Gelænder vægbeslag 5mm x2](./DXF/Gelaender%20-%20Vægbeslag%205mm%20x2.dxf)  
+[Gelænder vægplade 5mm x2](./DXF/Gelaender%20-%20Vægplade%205mm%20x2.dxf)  
 [Vange - Laske 8mm x2](./DXF/Vange%20-%20Laske%208mm%20x2.dxf)  
 [Vange - Lodret ende 8mm x2](./DXF/Vange%20-%20LodretEnde%208mm%20x2.dxf)  
 [Vange - Trinplade 5mm x10](./DXF/Vange%20-%20TrinPlade%205mm%20x10.dxf)  
