@@ -31,12 +31,25 @@ Jeg har taget udgangspunkt i 120x60 firkantprofiler, godstykkelsen er tegnet i 5
 
 Trin klarer jeg selv, her har jeg regnet med 145*35mm hårdttræ.
 
+## Tegninger
+
+Her er tegninger med mål.
+
+[Vange ender](./Drawings/001%20Vange%20ender.pdf)  
+[Trin beslag](./Drawings/002%20Trin%20beslag.pdf)  
+[Laske](./Drawings/003%20Laske.pdf)  
+[Vange profiler](./Drawings/004%20Vange%20profiler.pdf)  
+[Gelænder](./Drawings/010%20Gelænder.pdf)  
+[Vange assembly](./Drawings/101%20Vange%20Assembly.pdf)  
+
 ## DXF filer
 
 Der er følgende DXF filer, som burde kunne bruges til laserskæring af pladedele.
-[Gelænder vægbeslag](./DXF/Gelaender%20-%20Vægbeslag%205mm%20x2.dxf)
-[Vange - Laske 8mm x2](./DXF/Vange%20-%20Laske%208mm%20x2.dxf)
-[Vange - Lodret ende 8mm x2](./DXF/Vange%20-%20LodretEnde%208mm%20x2.dxf)
-[Vange - Trinplade 5mm x10](./DXF/Vange%20-%20TrinPlade%205mm%20x10.dxf)
-[Vange - Trin støtte 8mm x10](./DXF/Vange%20-%20TrinStøtte%208mm%20x10.dxf)
-[Vange - Vandret ende 8mm x2](./DXF/Vange%20-%20VandretEnde%208mm%20x2.dxf)
+
+[Gelænder vægbeslag](./DXF/Gelaender%20-%20Vægbeslag%205mm%20x2.dxf)  
+[Vange - Laske 8mm x2](./DXF/Vange%20-%20Laske%208mm%20x2.dxf)  
+[Vange - Lodret ende 8mm x2](./DXF/Vange%20-%20LodretEnde%208mm%20x2.dxf)  
+[Vange - Trinplade 5mm x10](./DXF/Vange%20-%20TrinPlade%205mm%20x10.dxf)  
+[Vange - Trin støtte 8mm x10](./DXF/Vange%20-%20TrinStøtte%208mm%20x10.dxf)  
+[Vange - Vandret ende 8mm x2](./DXF/Vange%20-%20VandretEnde%208mm%20x2.dxf)  
+
