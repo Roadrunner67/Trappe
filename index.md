@@ -40,6 +40,7 @@ Her er tegninger med mål.
 [Laske](./Drawings/003%20Laske.pdf)  
 [Vange profiler](./Drawings/004%20Vange%20profiler.pdf)  
 [Gelænder](./Drawings/010%20Gelænder.pdf)  
+[Gelænder vægbeslag](./Drawings/005%20Gelænder%20-%20Vægplade.pdf)  
 [Vange assembly](./Drawings/101%20Vange%20Assembly.pdf)  
 
 ## DXF filer
