@@ -42,6 +42,7 @@ Her er tegninger med mål.
 [Gelænder](./Drawings/010%20Gelænder.pdf)  
 [Gelænder vægplade](./Drawings/005%20Gelænder%20-%20Vægplade.pdf)  
 [Vange assembly](./Drawings/101%20Vange%20Assembly.pdf)  
+[Samlet overblik](./Drawings/102%20Samlet%20overblik.pdf)  
 
 ## DXF filer
 
