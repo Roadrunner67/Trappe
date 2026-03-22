@@ -34,3 +34,10 @@ Trin klarer jeg selv, her har jeg regnet med 145*35mm hårdttræ.
 ## DXF filer
 
 Der er vedhæftet DXF filer, som burde kunne bruges til laserskæring af pladedele.
+
+[Vange ender](./Drawings/001%20Vange%20ender.pdf)  
+[Trin beslag](./Drawings/002%20Trin%20beslag.pdf)  
+[Laske](./Drawings/003%20Laske.pdf)  
+[Vange profiler](./Drawings/004%20Vange%20profiler.pdf)  
+[Gelænder](./Drawings/010%20Gelænder.pdf)  
+[Vange assembly](./Drawings/101%20Vange%20Assembly.pdf)  
